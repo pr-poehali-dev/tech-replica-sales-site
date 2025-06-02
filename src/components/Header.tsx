@@ -11,7 +11,7 @@ const Header = () => {
             <div className="w-8 h-8 bg-gradient-to-r from-purple-500 to-indigo-600 rounded-lg flex items-center justify-center">
               <Icon name="Smartphone" size={18} className="text-white" />
             </div>
-            <h1 className="text-xl font-bold text-gray-900">TechReplica</h1>
+            <h1 className="text-xl font-bold text-gray-900">HYDRA</h1>
           </div>
 
           {/* Поиск */}

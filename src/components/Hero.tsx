@@ -8,11 +8,11 @@ const Hero = () => {
         <div className="flex items-center justify-between">
           <div className="flex-1">
             <h2 className="text-4xl font-bold mb-4">
-              Качественные копии <br />
-              популярной техники
+              HYDRA — Мощная техника <br />
+              для современных задач
             </h2>
             <p className="text-xl text-purple-100 mb-6">
-              Получите 95% функций оригинала за 30% цены
+              Превосходная производительность и надежность
             </p>
             <div className="flex space-x-4">
               <Button size="lg" className="bg-orange-500 hover:bg-orange-600">
